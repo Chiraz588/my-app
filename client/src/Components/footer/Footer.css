@@ -1,0 +1,20 @@
+.footer{
+    height: 100px;
+    background-color: rgb(12, 12, 12);
+    
+}
+.socialMedia{
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+ color: aliceblue;
+}
+i{
+    color: white;
+    font-size: 40px;
+    margin-right: 100px;
+}
+span{
+    color: white;
+ 
+}

@@ -1,0 +1,16 @@
+.photoadmin{
+    /* height: 500px;
+    width: 1200px; */
+    padding-top: 75px;
+}
+.pageAdmin{
+    background-color: rgb(224, 223, 223);
+}
+/* .dashBoard{
+
+} */
+
+.delete{
+    color:red;
+    cursor: pointer;
+}

@@ -1,0 +1,35 @@
+.image-field {
+	width: 60%;
+	margin: 0 auto;
+}
+.divback{
+	background: url('../../../img/background.jpg') no-repeat center center/cover;
+	height:160vh;   
+}
+label {
+	  color: font-color;
+	  text-align: center;
+	  font-weight: 600;
+	  text-transform: capitalize;
+	  letter-spacing: 2px;
+	  display: block;
+	  font-size: 1.3rem;
+	  margin-bottom: 2rem;
+      
+	}
+  .iconUSER{
+      width: 90px;
+      height: 80px;
+  }
+  .divProfile{
+      
+      width:100%;
+      margin:auto;
+      max-width:425px;
+      min-height:610px;
+      position:relative;
+      background-color:rgba(0, 0, 0, 0.253);
+      box-shadow:0 12px 15px 0 rgba(255, 1, 1, 0.411),0 17px 50px 0 rgb(146, 5, 5);
+      border-radius:25px;
+      margin-top:150px;
+  }
